@@ -2,9 +2,9 @@
 
 ## Files you can edit
 
-ValueIterationAgent.java	A Value Iteration agent for solving the Tic-Tac-Toe game with an assumed MDP model.__
-PolicyIterationAgent.java	A Policy Iteration agent for solving the Tic-Tac-Toe game with an assumed MDP model.
-QLearningAgent.java	A q-learner, Reinforcement Learning agent for the Tic-Tac-Toe game.
+ValueIterationAgent.java	A Value Iteration agent for solving the Tic-Tac-Toe game with an assumed MDP model.<br/>
+PolicyIterationAgent.java	A Policy Iteration agent for solving the Tic-Tac-Toe game with an assumed MDP model.<br/>
+QLearningAgent.java	A q-learner, Reinforcement Learning agent for the Tic-Tac-Toe game.<br/>
 
 ## Files you should read & use but shouldn’t need to edit
 
