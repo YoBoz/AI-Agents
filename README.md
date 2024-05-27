@@ -8,7 +8,7 @@ QLearningAgent.java	- A q-learner, Reinforcement Learning agent for the Tic-Tac-
 
 ## Files you should read & use but shouldn’t need to edit
 
-Game.java	<b/>- The 3x3 Tic-Tac-Toe game implementation.<br/>
+<b>Game.java<b/>- The 3x3 Tic-Tac-Toe game implementation.<br/>
 TTTMDP.java	- Defines the Tic-Tac-Toe MDP model<br/>
 TTTEnvironment.java	- Defines the Tic-Tac-Toe Reinforcement Learning environment.<br/>
 Agent.java - Abstract class defining a general agent, which other agents subclass.<br/>
